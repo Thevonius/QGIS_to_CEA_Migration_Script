@@ -1,0 +1,68 @@
+QGIS to CEA Conversion Script
+Copyright (c) 2026 Emilio Sessa
+DOI: https://doi.org/10.5281/zenodo.18837000
+
+═══════════════════════════════════════════════════════════════════════════════
+LICENSE: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+═══════════════════════════════════════════════════════════════════════════════
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License. To view a copy of this license, visit:
+http://creativecommons.org/licenses/by-nc/4.0/
+
+MANDATORY ATTRIBUTION REQUIREMENTS:
+═══════════════════════════════════════════════════════════════════════════════
+
+1. ACADEMIC AND RESEARCH USE
+   When using this software in academic publications, presentations, theses,
+   dissertations, or research reports, you MUST cite:
+
+   Sessa, E. (2026). QGIS to CEA Conversion Script.
+   Zenodo. https://doi.org/10.5281/zenodo.18837000
+
+2. SOFTWARE INTEGRATION AND DERIVATIVE WORKS
+   If this script or any portion of it is integrated into another software
+   system, plugin, or derivative work (including but not limited to:
+   integration into main.py, modification of functions, or adaptation of
+   algorithms), you MUST:
+
+   a) Include the DOI (10.5281/zenodo.18837000) in documentation
+   b) Retain the original copyright notice and attribution in source code
+   c) Include citation in user-facing documentation or "About" sections
+   d) Acknowledge the original work in any publications describing the
+      derivative software
+
+3. REMOVAL OF ATTRIBUTION NOTICE
+   Removing, modifying, or obscuring the citation notice at the top of this
+   file constitutes a breach of license terms and is prohibited.
+
+COMMERCIAL USE:
+═══════════════════════════════════════════════════════════════════════════════
+
+Commercial use of this software requires a separate commercial license.
+For commercial licensing inquiries, please contact:
+
+Emilio Sessa
+Email: emilio.sessa@example.com
+
+Commercial use includes (but is not limited to):
+- Integration into paid software products or services
+- Use in consulting or professional services for profit
+- Distribution as part of a commercial offering
+- Use by for-profit organizations in production systems
+
+DISCLAIMER:
+═══════════════════════════════════════════════════════════════════════════════
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+For the full text of the CC BY-NC 4.0 license, see:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
