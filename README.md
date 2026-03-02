@@ -4,7 +4,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 **Author:** Emilio Sessa  
-**ORCID:** 0009-0000-5242-628X
+**ORCID:** 0009-0000-5242-628X  
 **DOI:** [10.5281/zenodo.18837000](https://doi.org/10.5281/zenodo.18837000)  
 **Version:** 1.0.0  
 **Date:** 2026-03-02  
