@@ -78,7 +78,7 @@ The logic is **reverting the process** CEA follows to work seamlessly in QGIS an
 
 ### 2.1 Setting up the Working Directory
 
-Typically the directory tree of a complete CEA project ("Esempio") shows the following structure:
+Typically, the directory tree of a complete CEA project ("Esempio") shows the following structure:
 
 ```
 C:.
