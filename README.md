@@ -4,6 +4,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 **Author:** Emilio Sessa  
+**ORCID:** 0009-0000-5242-628X
 **DOI:** [10.5281/zenodo.18837000](https://doi.org/10.5281/zenodo.18837000)  
 **Version:** 1.0.0  
 **Date:** 2026-03-02  
@@ -342,7 +343,8 @@ Built for urban energy modeling workflows integrating QGIS and CEA.
 ## 📞 Contact & Support
 
 **Author:** Emilio Sessa  
-**Email:** emilio.sessa@example.com  
+**Email:** emilio.sessa@unipa.it/emiliosessaing@gmail.com
+**LinkedIN:** https://www.linkedin.com/in/emiliosessa/
 **DOI:** [10.5281/zenodo.18837000](https://doi.org/10.5281/zenodo.18837000)
 
 For bug reports, feature requests, or citation inquiries, please include the DOI in your message.
@@ -355,7 +357,7 @@ This software is protected by copyright and licensed under CC BY-NC 4.0.
 **Citation is legally required** for all uses (academic, research, and software integration).  
 Removal or modification of attribution notices is prohibited.
 
-For commercial licensing: **emilio.sessa@example.com**
+For commercial licensing: **emiliosessaing@gmail.com**
 
 ---
 
