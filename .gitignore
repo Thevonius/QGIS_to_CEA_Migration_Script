@@ -1,0 +1,62 @@
+# CEA project data
+Esempio/
+*.dbf
+*.shp
+*.shx
+*.prj
+*.cpg
+*.csv
+
+# Cache and temporary files
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+
+# User configuration
+dashboard.yml
+*.ini
+*.cfg
+config.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Backup files
+*.bak
+*~
+
+# Documentation build files
+docs/_build/
+site/
+
+# Old markdown files (superseded by README)
+readme.txt
+FINAL_SUMMARY.md
+CHECKLIST.md
+QUICKSTART.md
+IMPLEMENTATION_SUMMARY.md
+USAGE_EXAMPLES.md
+CONTRIBUTORS.md
+PUBLICATION_CHECKLIST.md

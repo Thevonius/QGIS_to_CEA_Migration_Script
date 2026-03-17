@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "QGIS to CEA Conversion Script"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Sessa"
+    given-names: "Emilio"
+    email: emilio.sessa@unipa.it
+    affiliation: "PhD XXXIX cycle in Energy, University of Palermo, Viale delle Scienze - building 8"
+    orcid: "https://orcid.org/0009-0000-5242-628X"
+repository-code: "https://github.com/emiliosessa/CEAQGIS"
+url: "https://doi.org/10.5281/zenodo.18837000"
+doi: 10.5281/zenodo.18837000
+version: 1.0.0
+date-released: 2026-03-02
+license: CC-BY-NC-4.0
+keywords:
+  - QGIS
+  - City Energy Analyst
+  - CEA
+  - Building Energy
+  - Geospatial
+  - Urban Energy Modeling
+abstract: >-
+  A Python script for exporting building polygons from QGIS to City Energy
+  Analyst (CEA) compatible shapefiles. Automatically converts coordinate
+  systems, validates geometries, and generates zone.shp, site.shp, and
+  typology.dbf files required for CEA energy simulations.
